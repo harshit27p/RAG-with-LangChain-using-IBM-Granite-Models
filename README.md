@@ -57,22 +57,6 @@ This lab:
          |   Final Generated Answer |
          +------------------------+
 ```
-
----
-## 📁 Folder Structure
-```
-.
-├── notebooks/
-│   └── RAG_with_LangChain.ipynb       # Main Jupyter Notebook for the lab
-├── data/
-│   └── state_of_the_union.txt         # Sample knowledge base
-├── scripts/
-│   └── requirements.txt               # Dependency list
-├── assets/
-│   └── architecture.png               # Diagram/image (optional)
-├── .env.example                       # Example for setting environment variables
-└── README.md                          # You're here!
-```
 ---
 ## ⚙️ Requirements
 
