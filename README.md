@@ -83,34 +83,6 @@ This lab:
    - GitHub account
 
 ---
-
-## 🧪 Installation
-👉 Option 1: Run on Google Colab
-👉 Option 2: Run locally
-
-### Clone the repository
-git clone https://github.com/yourusername/rag-granite-langchain.git
-cd rag-granite-langchain
-
-### Create and activate a virtual environment
-python -m venv .venv
-source .venv/bin/activate  # or .venv\Scripts\activate on Windows
-
-### Install requirements
-pip install -r scripts/requirements.txt
-
-## 🔐 Environment Variables
-
-Create a .env file based on .env.example and set your Replicate API key:
-
-REPLICATE_API_TOKEN=your_replicate_token_here
-
-### 🛠️ Run the Lab
-
-Inside the virtual environment
-jupyter notebook notebooks/RAG_with_LangChain.ipynb
-
----
 ## ✅ Key Features Demonstrated
 
     🔹 Document chunking using langchain.text_splitter
@@ -134,3 +106,9 @@ jupyter notebook notebooks/RAG_with_LangChain.ipynb
 
     🔗 IBM Granite RAG Notebook (Colab)
 
+---
+## 🔗 Access This Lab Online
+
+▶️ Run the RAG with LangChain Notebook in Colab:https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/RAG/RAG_with_Langchain.ipynb#scrollTo=mCXAgbCHXxlH
+
+📘 Official IBM Skills Network Lab:https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3824998?ngo-id=0330&utm_campaign=aca-Edunet-GLERAGLAB-2025-26
